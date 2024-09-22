@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Gowun+Batang:wght@400;700&family=Playwrite+DE+Grund:wght@100..400&display=swap');
+
+body {
+    background-color: blanchedalmond;
+}
+
+.heading {
+    margin: 0 auto;
+    width: 60%;
+}
+
+.title {
+    color: chocolate;
+    font-family: "Gowun Batang", serif;;
+}
+
+.ingredients {
+    border: 3px solid rgb(0, 0, 0);
+    width: 60%;
+    margin: 0 auto;
+    padding: 10px;
+    color: crimson;
+    font-family: "Crimson Text", serif;;
+}
+
+.ingredients-table {
+    border: 2px solid brown;
+    color: brown;
+}
+
+.instructions {
+    border: 3px solid black;
+    width: 60%;
+    padding: 10px;
+    margin: 0 auto;
+    color: sienna;
+    font-family: "Playwrite DE Grund", cursive;
+}
+
+.footer {
+    width: 60%;
+    padding: 10px;
+    margin: 0 auto;
+    border: 3px solid black;
+    color: darkred;
+}
